@@ -1,0 +1,43 @@
+@font-face{
+	font-family:"cussco";
+	src:
+	 url(proyecto_brian/css/fonts/The_Emperors_font.ttf),
+	 url(proyecto_brian/css/fonts/The_Emperors_font.eot), 
+	 url(proyecto_brian/css/fonts/The_Emperors_font.svg), 
+	 url(proyecto_brian/css/fonts/The_Emperors_font.woft);
+}
+
+.alfa{
+	background-color:#e53935;
+	padding: 10px;
+	height: 100px;
+	text-align: center; 
+	font-family:"cussco"; 	
+}
+
+.beta{	
+	background-image: url("assets/images/cuzco.jpg") height300px;
+	background-color:#3949ab; 
+	height: 300px;
+	padding: 10px;
+	text-align: right;
+}
+
+.gama{
+
+
+}
+.gamabaja
+{
+	font-family: cussco;
+	text-align: right;
+}
+
+.omega
+{
+	font-family: "cussco";
+	text-align: center;
+
+
+}
+
